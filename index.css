@@ -1,0 +1,215 @@
+
+body{
+    background-image: url(images/bg.webp);
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+    background-repeat: repeat;
+    background-size: 80%;
+    
+}
+.menu {
+  background-color: #101010;
+  overflow: hidden;
+  height: 80px;
+}
+
+.menu h1 {
+  color: white;
+  text-align: center;
+  padding: 10px 10px 100px 10px;
+  margin: 0;
+  
+}
+
+.menu a {
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 28px 45px 30px 40px;
+  text-decoration: none;
+  height: 80px;
+}
+
+.menu a:hover {
+  background-color: #11495A;
+}
+
+.active {
+  background-color: #18272B;
+}
+
+.perfilphoto{
+  display: block;
+  padding: 20px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 16%;
+}
+.travelicon{
+    display: block;
+    padding: 20px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .uraracon{
+    display: block;
+    padding: 20px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .govicon{
+    display: block;
+    padding: 20px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+.title{
+
+font-size: 24px;
+padding: 20px 20px 20px 100px;
+font-family: "Inter", sans-serif;
+color: white;
+
+
+}
+
+.hi{
+ 
+  font-size: 36px;
+    font-family: "Inter", sans-serif;
+    margin: auto;
+    width: 50%;
+    padding: 0px 0px 0px 0px;
+    color: white;
+    text-align: center;
+    font-weight: 100;
+  }
+
+  .name{
+
+    font-size: 64px;
+    font-family: "Inter", sans-serif;
+    margin: auto;
+    width: 50%;
+    padding: 0px 0px 0px 0px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    }
+
+    .ux{
+ 
+      font-size: 26px;
+        font-family: "Inter", sans-serif;
+        margin: auto;
+        width: 50%;
+        padding: 12px;
+        color: #5EBEDC;
+        text-align: center;
+        font-weight: 100;
+      }
+
+      .separatortop{
+
+        position: relative;
+        width: 45%;
+        padding: 7px 100px 0px 108px;
+        z-index: 1000;
+        left: 415px;
+        
+      }
+
+      .button{
+
+        position: relative;
+        top: -22px;
+        left: 600px;
+        right: 0px;
+        z-index: 999;
+        width: 20%;
+        
+      }
+
+      .my{
+ 
+        font-size: 36px;
+          font-family: "Inter", sans-serif;
+          margin: auto;
+          width: 50%;
+          padding: 0px 0px 0px 0px;
+          color: white;
+          text-align: center;
+          font-weight: 100;
+        }
+      
+        .skills{
+      
+          font-size: 64px;
+          font-family: "Inter", sans-serif, bold;
+          margin: auto;
+          width: 50%;
+          padding: 0px 0px 0px 0px;
+          color: white;
+          text-align: center;
+          font-weight: bolder;
+          }
+          
+          .container{
+
+            position: relative;
+            top: 40px;
+            left: 0px;
+            right: 0px;
+            width: 20%;
+          }
+
+          .textskills{
+
+            top: 40px;
+            color: white;
+            text-align: center;
+            font-family: "Inter", sans-serif;
+          }
+
+          .row{
+
+            text-align: center;
+            
+          }
+
+          .projecttitle{
+
+            top: 40px;
+            color: white;
+            text-align: center;
+            font-size: 26px;
+            font-family: "Inter", sans-serif, Bold;
+            font-weight: bolder;
+          }
+
+          .demo{
+
+            top: 40px;
+            color: white;
+            text-align: center;
+            font-size: 26px;
+            font-family: "Inter", sans-serif, Bold;
+            font-weight: bolder;
+          }
+
+          footer {
+            background-color: #fff;
+            color: #000;
+            text-align: center;
+            padding: 20px 15px 15px 15px;
+            position: relative;
+            bottom: -5;
+            width: 100%;
+        }
